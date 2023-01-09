@@ -1,0 +1,24 @@
+{
+  "name": "calculate-prime-action",
+  "version": "1.0.0",
+  "description": "Stupid action to calculate primes, mainly for using the CPU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agileJonas/calculate-prime-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agileJonas/calculate-prime-action/issues"
+  },
+  "homepage": "https://github.com/agileJonas/calculate-prime-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}

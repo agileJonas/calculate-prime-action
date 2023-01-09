@@ -1,0 +1,5 @@
+name: "Jonas Prime action"
+description: "Calculate if a number is a prime"
+runs:
+  using: node12
+  main: index.js
